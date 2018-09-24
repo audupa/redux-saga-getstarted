@@ -1,4 +1,4 @@
-# redux-saga-beginner-tutorial
+# redux-saga-getstarted-tutorial
 
 
 # Instructions
